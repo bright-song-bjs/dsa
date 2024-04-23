@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Test/Test.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BenchMark/BenchMark.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Sorting/Sorting.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Searching/Searching.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Graph/Graph.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:List/List.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tree/Tree.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PriorityQueue/PriorityQueue.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Queue/Queue.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Trie/Trie.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Heap/Heap.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:RingBuffer/RingBuffer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Stack/Stack.xcodeproj">
+   </FileRef>
+</Workspace>
